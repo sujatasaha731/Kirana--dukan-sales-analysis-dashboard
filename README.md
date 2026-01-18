@@ -1,5 +1,6 @@
 # Kirana--dukan-sales-analysis-dashboard
 Power BI dashboard analyzing kirana dukan sales 
+![Dashboard screenshot](kirana%20sales%20dashboard.png)
 
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard designed to analyze sales performance of a Kirana (local grocery) store.  
